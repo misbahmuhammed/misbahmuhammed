@@ -1,6 +1,14 @@
-# 💫 About Me:
-Passionate Full Stack Developer with 1+ year of experience in software development. Proficient in C#, Blazor, Angular, ASP.NET Core, Entity Framework Core, SQL Server, REST API, and Microsoft Azure technologies. Certified in Azure AZ-900 and DP-900. Eager to enhance skills in software development and enthusiastic about learning new technologies. Proven ability to thrive in diverse project environments.
 
+## 🧑‍💻 Passionate Full-Stack Developer | 🚀 Cloud Enthusiast | 💡 Lifelong Learner 
+
+I'm a **Full Stack Developer** with 1+ year of experience in building modern, high-performance applications! I specialize in developing efficient and scalable solutions using:
+
+- 🟦 **Languages:** C#,Python,C,C++,Java, SQL, JavaScript/TypeScript
+- ⚙️ **Frameworks & Libraries:** ASP.NET Core, Entity Framework Core, Blazor, Angular,Django
+- ☁️ **Cloud Platforms:** Microsoft Azure (Certified: AZ-900, DP-900)
+- 🏗️ **Architectures:** Microservices, RESTful APIs
+- 💾 **Database Management:** SQL Server
+- 🔄 **Version Control & Tools:** Git, Jira, Azure DevOps
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mxsbah_mhd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/misbahmuhammed/) 
