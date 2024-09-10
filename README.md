@@ -11,6 +11,7 @@ I'm a **Full Stack Developer** with 1+ year of experience in building modern, hi
 - 🔄 **Version Control & Tools:** Git, Jira, Azure DevOps
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox-browser)](https://myportfoliove2.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mxsbah_mhd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/misbahmuhammed/) 
 
 # 💻 Tech Stack:
